@@ -1,594 +1,742 @@
 [
     {
         "coloring": "Hoya Colors Cinza 85%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Marrom 50%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Cinza 50% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom 25%/0% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Marrom 85% Farb 454",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Cinza 40% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Cinza 75% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Cinza 65%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Medicinal F451 Farb 131",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Pionner 85% Farb 474",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Skylet Road 80% Farb 102",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Pioneer 75%/25% Farb 478",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Cinza 90%/40% Farb 469",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Cinza 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 40% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom 85% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Marrom 50% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Pioneer 25%/0% Farb 476",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Verde 15%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Verde G15 90%/40% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Verde 85% AR",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Verde G15 12% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Verde 85%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Skylet Fun 70% Farb 101",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Marrom Oft\u00e1lmico",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Verde Degrad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Padr\u00e3o Cinza Black",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Cinza 50%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": " Indispon\u00edvel ",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Amostra"
     },
     {
         "coloring": "Hoya Colors Verde 65%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 85% a 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Marrom 40%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Verde 50% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Verde 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 15%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Medicinal F60 Farb 126",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Verde 40% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Cinza 85% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 85% AR",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Happy yellow Farb 701",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Cinza 85% a 25% AR",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom 25% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Verde 25% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Padr\u00e3o Marrom Dark",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Cinza 75% Farb 463",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Medicinal F80 Farb 128",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Pioneer 12% Farb 470",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Pioneer 25% Farb 471",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Verde 85% a 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Pioneer 75% Farb 473",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Cinza Oft\u00e1lmico",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Preto 85% Farb 494",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Verde G15 25% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Cinza 65% a 15%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Padr\u00e3o G15",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Marrom 50%",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Cinza 25%/0% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Preto 25%/0% Farb 496",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Pioneer 90%/40% Farb 479",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Verde G15 25%/0% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Cinza 12% Farb 460",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Medicinal F580 Farb 138",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Marrom Dark Degrad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Padr\u00e3o Azul",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Cinza 85%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom 65%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Verde G15 75%/25% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Medicinal F560 Farb 136",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Cinza Degrad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 65% a 15%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Cinza Black 85% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Cinza 85% AR",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Cinza Black Degrad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Marrom 75%/25% Farb 458",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Padr\u00e3o Azul Degrad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Marrom 85% a 25% AR",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Marrom 25%/0% Farb 456",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom 75%/25% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Padr\u00e3o Cinza 50%",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Verde 85% a 25% AR",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 85% a 25% AR",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Japan Verde 85%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss ProGolf 40% Farb 750",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Verde G15 75% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 40%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Medicinal F540 Farb 134",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 85%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Cinza 25%/0% Farb 466",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Marrom 85%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom 85% AR",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Pretro 75% Farb 493",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Cinza 85% Farb 464",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Marrom 12% Farb 450",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom 85% a 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Amostra Inteira Amostra Inteira",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Amostra"
     },
     {
         "coloring": "Hoya Colors Cinza 15%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom 12% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Marrom 90%/40% Farb 459",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom 75% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Amarelo 25% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Marrom 85%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Especial Amostra Inteira",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss ProGolf 75/25% Farb 751",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Marrom 75% Farb 453",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Marrom Degrad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom 15%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o G15 Degrad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Padr\u00e3o Verde 50%",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom Dark 75% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Amarelo 12% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Marrom 25% Farb 451",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Japan Verde 50%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Cinza 75%/25% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom Dark 85% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Marrom 90%/40% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Japan Marrom 25% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Japan Verde 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Cinza 25% Farb 461",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o G15 50%",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Cinza 90%/40% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Medicinal F90 Farb 129",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Medicinal Z1 Farb 133",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Cinza 85% a 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Cinza 75%/25% Farb 468",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Marrom Gold 65%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Medicinal F452 Farb 132",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Verde 65% a 15%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Marrom 65% a 15%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Japan Cinza 25% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Padr\u00e3o Azul 50%",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Verde 40%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Cinza 25% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": " Incolor ",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Amostra"
     },
     {
         "coloring": "Hoya Japan Marrom 25%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Verde G15 85% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Amostra D\u00e9grad\u00ea Amostra D\u00e9grad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Amostra"
     },
     {
         "coloring": "Zeiss Preto 25% Farb 491",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Essilor Padr\u00e3o Verde Oft\u00e1lmico",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Inteira"
     },
     {
         "coloring": "\u00d3ticas Diniz (Pr\u00f3prio) Cinza 12% By Diniz",
-        "dw_code": "2000611"
+        "dw_code": "2000611",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Preto 90%/40% Farb 499",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Hoya Colors Cinza 40%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Inteira"
     },
     {
         "coloring": "Hoya Colors Marrom 40% a 0%",
-        "dw_code": "3500018"
+        "dw_code": "3500018",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Preto 75%/25% Farb 498",
-        "dw_code": "2677616"
+        "dw_code": "2677616",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Essilor Especial Amostra D\u00e9grad\u00ea",
-        "dw_code": "2000453"
+        "dw_code": "2000453",
+        "type": "Degrad\u00ea"
     },
     {
         "coloring": "Zeiss Preto 12% Farb 490",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     },
     {
         "coloring": "Zeiss Skylet Sport 90% Farb 103",
-        "dw_code": "2677615"
+        "dw_code": "2677615",
+        "type": "Inteira"
     }
 ]
