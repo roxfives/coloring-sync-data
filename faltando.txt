@@ -1,0 +1,4 @@
+Colorações faltando:
+
+Zeiss:
+	* Amostra inteira e amostra degradê (usar padrão)
